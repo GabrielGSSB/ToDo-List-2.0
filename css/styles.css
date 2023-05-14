@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("/ToDo3.0/img/bg.png");
+  background-image: url("img/bg.png");
   background-position: center;
   background-size: cover;
 }
